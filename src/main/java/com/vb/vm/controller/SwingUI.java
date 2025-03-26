@@ -152,10 +152,10 @@ public class SwingUI extends JFrame {
                 modbusService = new ModbusService(selectedPort);
                 updateRegisterValue();
             } catch (Exception e) {
-                showMessage("Error", "Failed to connect to port.");                
+                showMessage("Error", "Failed to connect to port. Try Again.");                
             }
         } else {
-            showMessage("Error", "Failed to connect to port.");
+            showMessage("Error", "Failed to connect to port. Try Again.");
         }
     }
 
