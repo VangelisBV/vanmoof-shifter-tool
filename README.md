@@ -46,7 +46,7 @@ If you don't have JRE installed already, download and install it from the offici
 
 1. **Connect the shifter to your PC and to the power supply according to the diagram (start from the shifter side):** 
 
-***⚠  Be carefull with the wiring. Wrong connection can damage the e-shifter, the UART adapter or even your PC !!! ⚠***
+***⚠  Be carefull with the wiring. Wrong connection can damage the e-shifter, the UART adapter or even your PC! ⚠***
 
 Turn on the power supply when everything is connected.
 
